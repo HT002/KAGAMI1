@@ -18,7 +18,7 @@ my website
 
 		.content {display:none;}
 
-		.preload { width:100px;
+		.preload { width:150px;
 
 			height: 200px;
 
