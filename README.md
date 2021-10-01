@@ -10,4 +10,4 @@
 
 ![loading.gif](https://user-images.githubusercontent.com/79648523/135584024-6ed126f1-63e2-4f77-a98f-c9df4f54420e.gif)
 
-![image](https://user-images.githubusercontent.com/79648523/135584518-76a2c1cf-c7d9-432e-b261-2d55b0ee466d.png)
+
