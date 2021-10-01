@@ -1,5 +1,15 @@
-<div style="background-image:url('https://raw.githubusercontent.com/HT002/KAGAMI1/main/rotate-pulsating-loading-animation.gif');padding:5px;width:150px;height:200px;border:1px solid black;">
-  
-  <p>See the background image?</p>
-   
-    </div>
+<script language="javascript">
+
+function js_popup(theURL,width,height) { //v2.0
+
+leftpos = (screen.availWidth - width) / 2;
+
+     toppos = (screen.availHeight - height) / 2;
+
+   window.open(theURL, "viewdetails","width=" + width + ",height=" + height + ",left=" + leftpos + ",top=" + toppos);
+
+}
+
+</script>
+
+<a href="#" onClick="js_popup('test2.php',783,600); return false;" title="Code PHP Popup">Test Code PHP Popup</a>
