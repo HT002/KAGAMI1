@@ -1,4 +1,4 @@
- <!DOCTYPE html> 
+  <!DOCTYPE html> 
 
 <html> 
 
@@ -22,9 +22,45 @@
 
          <spirit>
 
-     
+         setTimeout(function() {
 
-         swal("Hello world!");
+         swal({
+
+  text: "Wanna log some information about Bulbasaur?",
+
+  button: {
+
+    text: "Search!",
+
+    closeModal: false,
+
+  },
+
+})
+
+.then(willSearch => {
+
+  if (willSearch) {
+
+    return fetch("http://pokeapi.co/api/v2/pokemon/1");
+
+  }
+
+})
+
+.then(result => result.json())
+
+.then(json => console.log(json))
+
+.catch(err => {
+
+  swal("Oops!", "Seems like we couldn't fetch the info", "error");
+
+});
+
+         }); 
+
+         }, 1000);
 
        </script>
 
