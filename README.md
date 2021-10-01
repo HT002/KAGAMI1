@@ -43,7 +43,7 @@ my website
 
 		function() {
 
-			$(".content").fadeIn(1000);
+			$(".content").fadeIn(3000);
 
 		});
 
