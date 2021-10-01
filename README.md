@@ -27,7 +27,7 @@ my website
 
 			top: 30%;
 
-			left: 70%;
+			left: 20%;
 
 		}
 
