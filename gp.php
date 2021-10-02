@@ -4,7 +4,9 @@
 
 <head>
 
-	<metacharset="utf-8"/>	<metahttp-equiv="X-UA-Compatible"content="IE=edge">
+	<metacharset="utf-8"/>	
+	
+	<metahttp-equiv="X-UA-Compatible"content="IE=edge">
 
 	<title>Test Sweetalert</title>
 
