@@ -21,13 +21,13 @@ hr {
 	float:left;
 	width:100%;
 	background:#000;
-	font-size:93%;
+	font-size:90%;
 	line-height:normal;
 	}
 
 #tabs ul {
 	margin:0;
-	padding:10px 70px 0 40px;
+	padding:10px 0px 0 80px;
 	list-style:none;
 	}
 
