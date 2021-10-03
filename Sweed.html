@@ -1,22 +1,41 @@
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<!DOCTYPEhtml>
+
+<html>
+
+<head>
+
+	<metacharset="utf-8"/>
+
+	<metahttp-equiv="X-UA-Compatible"content="IE=edge">
+
+	<title>Test Sweetalert</title>
+
+	<metaname="viewport"content="width=device-width, initial-scale=1">
+
+	<linkrel="stylesheet"type="text/css"href="sweetalert2/dist/sweetalert2.min.css"/>
+
+	<script src="sweetalert2/dist/sweetalert2.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    
+
+</head>
+
+<body>
+
+	<buttontype="button"onclick="swalFunction()">Alert</button>
+
+</body>
+
+ 
 
 <script>
 
-  import Swal from 'sweetalert2'
-  const Swal = require('sweetalert2')
-Swal.fire({.
+	function swalFunction() {
 
-  title: 'Error!',
+		swal('สวัสดีชาวโลก');
 
-  text: 'Do you want to continue',
+	}
 
-  icon: 'error',
+</script>
 
-  confirmButtonText: 'Cool'
-
-})
-   </script>
-
- <script>
-   Swal.fire('Any fool can use a computer')
- </script>
+</html>
