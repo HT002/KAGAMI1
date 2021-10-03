@@ -1,35 +1,18 @@
 <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-</script>
+<script>
 
-<body>
-const Toast = Swal.mixin({
+  import Swal from 'sweetalert2'
+  const Swal = require('sweetalert2')
+Swal.fire({.
 
-  toast: true,
+  title: 'Error!',
 
-  position: 'top-end',
+  text: 'Do you want to continue',
 
-  showConfirmButton: false,
+  icon: 'error',
 
-  timer: 3000,
-
-  timerProgressBar: true,
-
-  didOpen: (toast) => {
-
-    toast.addEventListener('mouseenter', Swal.stopTimer)
-
-    toast.addEventListener('mouseleave', Swal.resumeTimer)
-
-  }
+  confirmButtonText: 'Cool'
 
 })
-
-Toast.fire({
-
-  icon: 'success',
-
-  title: 'Signed in successfully'
-
-})
-</body>
+   </script>
