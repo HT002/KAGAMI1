@@ -16,13 +16,13 @@ h1 {
 hr {
 	border:none;
 	border-top:1px solid #CCCCCC;
-	height:20px;
+	height:0px;
 	margin-bottom:25px;
 	}
 
 ul {
 	list-style: none;
-	margin: ;
+	margin: 0;
 	padding: 0;
 	}
 
