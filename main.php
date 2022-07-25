@@ -1,6 +1,6 @@
-{"Version":"1.6",
+{"Version":"2.1",
 
-"Url":"https://github.com/HT002/KAGAMI1/blob/main/CODE%20A2.zip?raw=true" ,
+"Url":"https://github.com/HT002/KAGAMI1/blob/main/CODE%20A1.zip?raw=true" ,
 
 "Changelog":"  
 
