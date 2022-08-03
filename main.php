@@ -1,6 +1,6 @@
-{"Version":"2.1",
+{"Version":"2.2",
 
-"Url":"https://github.com/HT002/KAGAMI1/blob/main/CODE%20A1.zip?raw=true" ,
+"Url":"https://github.com/opopeay/IOFVPN/raw/main/iof99.zip" ,
 
 "Changelog":"  
 
