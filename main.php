@@ -1,10 +1,10 @@
-{"Version":"3.0",
+{"Version":"3.1",
 
 "Url":"https://github.com/HT002/KAGAMI1/blob/main/CODE%20A.zip?raw=true" ,
 
 "Changelog":"  
 
-test vpn server
+test vpn server 🇹🇭&🇸🇬
 ",
 
 "latestVersion": "1.0.0",
