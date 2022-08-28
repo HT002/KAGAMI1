@@ -1,4 +1,4 @@
-{"Version":"2.4",
+{"Version":"2.5",
 
 "Url":"https://github.com/HT002/KAGAMI1/blob/main/CODE%20A1.zip?raw=true" ,
 
