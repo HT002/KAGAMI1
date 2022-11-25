@@ -1,5 +1,5 @@
 {"Version":"3.4",
-"Url":"https://github.com/HT002/KAGAMI1/blob/main/GENERAL.zip" ,
+"Url":"https://github.com/HT002/KAGAMI1/blob/main/GENERAL.zip?raw=true" ,
 "Changelog":"  
 test vpn server 🇹🇭&🇸🇬
 ",
